@@ -1,0 +1,15 @@
+.hero-header {
+    background-color: rgba(255, 100, 100, 0.7);
+    color: white;
+    padding: 20px 10px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5px;
+
+}
+
+
+
+
+
